@@ -43,7 +43,7 @@ export function Header() {
 
           {/* Actions */}
           <div className="flex items-center gap-3">
-            <Link href="https://instagram.com" target="_blank" className="hidden sm:flex">
+            <Link href="https://instagram.com/_smarttwins" target="_blank" className="hidden sm:flex">
               <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-primary">
                 <Instagram className="w-5 h-5" />
               </Button>
